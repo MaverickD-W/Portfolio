@@ -1,0 +1,35 @@
+MySQL Connector
+
+pip:
+https://dev.mysql.com/doc/connector-python/en/quick-installation-guide.html
+pip install mysql-connector-python 
+
+anaconda:
+https://anaconda.org/anaconda/mysql-connector-python
+conda install anaconda::mysql-connector-python
+
+___________________________________
+Sqlite3
+
+pip:
+pip install sqlite
+
+anaconda:
+conda install sqlite
+
+____________________________________
+SQL Alchemy
+
+pip:
+pip install sqlalchemy
+
+anaconda:
+conda install anaconda::sqlalchemy
+
+___________________________________
+
+Other helpful libraries that come with anaconda, but if you're
+not using that will have to install with pip are pandas and numpy:
+
+pip install pandas
+pip install numpy

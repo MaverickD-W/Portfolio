@@ -1,0 +1,51 @@
+state_name,abbreviation,region,area_sq_km
+Alabama,AL,South,131171
+Alaska,AK,West,1477953
+Arizona,AZ,West,294207
+Arkansas,AR,South,134771
+California,CA,West,403466
+Colorado,CO,West,268431
+Connecticut,CT,Southern New England,12542
+Delaware,DE,South,5047
+Florida,FL,South,138887
+Georgia,GA,South,148959
+Hawaii,HI,West,16635
+Idaho,ID,West,214045
+Illinois,IL,Midwest,143793
+Indiana,IN,Midwest,92789
+Iowa,IA,Midwest,144669
+Kansas,KS,Midwest,211754
+Kentucky,KY,South,102269
+Louisiana,LA,South,111898
+Maine,ME,Northern New England,79883
+Maryland,MD,South,25142
+Massachusetts,MA,Southern New England,20202
+Michigan,MI,Midwest,146435
+Minnesota,MN,Midwest,206232
+Mississippi,MS,South,121531
+Missouri,MO,Midwest,178040
+Montana,MT,West,376962
+Nebraska,NE,Midwest,198974
+Nevada,NV,West,284332
+New Hampshire,NH,Northern New England,23187
+New Jersey,NJ,Northeast,19047
+New Mexico,NM,West,314161
+New York,NY,Northeast,122057
+North Carolina,NC,South,125920
+North Dakota,ND,Midwest,178711
+Ohio,OH,Midwest,105829
+Oklahoma,OK,South,177660
+Oregon,OR,West,248608
+Pennsylvania,PA,Northeast,115883
+Rhode Island,RI,Southern New England,2678
+South Carolina,SC,South,77857
+South Dakota,SD,Midwest,196350
+Tennessee,TN,South,106798
+Texas,TX,South,676587
+Utah,UT,West,212818
+Vermont,VT,Northern New England,23871
+Virginia,VA,South,102279
+Washington,WA,West,172119
+West Virginia,WV,South,62259
+Wisconsin,WI,Midwest,140268
+Wyoming,WY,West,251470
