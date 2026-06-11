@@ -1,0 +1,19 @@
+# You'll need to add content to this gitignore file.
+# Your gitignore should only contain paths that are actually present in your repository, do not paste in or use a template from a previous .gitignore.
+
+# example paths
+# ignoring python executables, these get generated when I run code
+__pycache__/
+*.py[codz]
+*$py.class
+
+
+# Ignoring files in my hw4 scraper
+**/.idea/**
+*/__pycache__/*
+
+# This file is not as necessary to hide, but it if it is populated, I would like for it to be hidden
+*__init__.py*
+
+# Hiding my environment
+.env
