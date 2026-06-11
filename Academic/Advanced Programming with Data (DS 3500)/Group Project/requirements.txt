@@ -1,0 +1,13 @@
+# TODO: make sure we have everything relevant in here
+
+# for data storage
+pandas==2.3.3
+geopandas==1.1.3
+pyarrow==23.0.1 # i think this is needed for reading/writing parquet
+
+# for dashboard
+panel==1.8.5
+# for visualization stuff
+matplotlib==3.10.7
+plotly==6.3.0
+ffmpeg
