@@ -57,11 +57,6 @@ def data_enrichment():
 
 
 # # Metrics
-<<<<<<< HEAD
-#
-=======
-
->>>>>>> 7d4074f7f4f346b90512fb434129875d4803bb1e
 # cleaning_metrics = clean_biodiversity_data(data)[1]
 # cleaning_metrics = pd.Series(cleaning_metrics)
 # result = cleaning_metrics.to_json(orient="index", compression={"method": "json"})
