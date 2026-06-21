@@ -56,6 +56,15 @@ def data_enrichment():
     assert "area_sq_km" in combined_df.columns,         "Need area_sq_km"
 
 
+# # Metrics
+
+# cleaning_metrics = clean_biodiversity_data(data)[1]
+# cleaning_metrics = pd.Series(cleaning_metrics)
+# result = cleaning_metrics.to_json(orient="index", compression={"method": "json"})
+# parsed = loads(result)
+# dumps(parsed, indent=4)
+
+
 def main():
     data_acquisition()
     cleaning_and_metrics()
